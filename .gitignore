@@ -1,6 +1,6 @@
 # Dependencies
 node_modules/
-
+.github/
 # Hexo generated files
 public/
 .deploy_git/
