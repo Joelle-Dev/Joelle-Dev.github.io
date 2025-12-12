@@ -1,0 +1,14 @@
+# Butterfly Theme Configuration Override
+# This file will override the default theme configuration
+
+# Social Links
+social:
+  fab fa-github: https://github.com/Joelle-Dev || Github || '#24292e'
+
+# Image Settings
+favicon: /images/favicon.png
+
+avatar:
+  img: /images/favicon.png
+  effect: false
+
