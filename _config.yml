@@ -82,6 +82,6 @@ pagination_dir: page
 theme: butterfly
 deploy:
   type: git
-  repo: https://github.com/Joelle-Dev/mozzieMIUMIU.github.io.git
+  repo: git@github.com:Joelle-Dev/Joelle-Dev.github.io.git
   branch: master
 
