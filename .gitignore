@@ -1,6 +1,6 @@
 # Dependencies
 node_modules/
-.github/
+# .github/  # Allow GitHub Actions workflows
 # Hexo generated files
 public/
 .deploy_git/
